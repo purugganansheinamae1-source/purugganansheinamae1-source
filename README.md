@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there 👋 I'm Sheina Mae!
 
-<!--
-**purugganansheinamae1-source/purugganansheinamae1-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Welcome to my GitHub profile!  
+I’m passionate about learning, creating, and improving my skills through technology and problem-solving.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+- 🎓 Currently learning and exploring new technologies  
+- 💡 Interested in software development, web technologies, and digital tools  
+- 🚀 Always eager to grow, collaborate, and take on new challenges  
+- 📍 Based in the Philippines  
+
+---
+
+## 🛠️ Skills
+### 💻 Programming & Web
+- HTML  
+- CSS  
+- JavaScript  
+- Python  
+
+### 🧰 Tools & Platforms
+- Git & GitHub  
+- VS Code  
+- Google Workspace  
+
+### 🌟 Soft Skills
+- Problem-solving  
+- Teamwork & collaboration  
+- Communication  
+- Time management  
+
+---
+
+## 📫 Let’s Connect
+- 📧 Email: purugganansheinamae1@gmail.com
+- 🌐 GitHub: https://github.com/yourusername [github.com/yourusername](https://github.com/purugganansheinamae1-source)
+
+---
+
+✨ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
